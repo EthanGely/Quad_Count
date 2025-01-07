@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277748633004",
+    "project_id": "quad-count",
+    "storage_bucket": "quad-count.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277748633004:android:ccc83c2857b93b438d3e09",
+        "android_client_info": {
+          "package_name": "com.exemple.quad_count"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACm_mPjCj6WUUIqMHdPXCa-BAMIOMctj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
