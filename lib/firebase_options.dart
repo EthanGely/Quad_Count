@@ -41,47 +41,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAT5L22SwQMdeU8FqW9dN521b-UmDzo6M8',
-    appId: '1:277748633004:web:93f04af146b83d828d3e09',
-    messagingSenderId: '277748633004',
     projectId: 'quad-count',
-    authDomain: 'quad-count.firebaseapp.com',
-    storageBucket: 'quad-count.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyACm_mPjCj6WUUIqMHdPXCa-BAMIOMctj8',
-    appId: '1:277748633004:android:ccc83c2857b93b438d3e09',
-    messagingSenderId: '277748633004',
     projectId: 'quad-count',
-    storageBucket: 'quad-count.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDYKCeUca9IKAOYpegw7dHFOCmvrmWZYn0',
-    appId: '1:277748633004:ios:168c60dc67637cd28d3e09',
-    messagingSenderId: '277748633004',
-    projectId: 'quad-count',
-    storageBucket: 'quad-count.firebasestorage.app',
-    iosBundleId: 'com.example.quadCount',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDYKCeUca9IKAOYpegw7dHFOCmvrmWZYn0',
-    appId: '1:277748633004:ios:168c60dc67637cd28d3e09',
-    messagingSenderId: '277748633004',
-    projectId: 'quad-count',
-    storageBucket: 'quad-count.firebasestorage.app',
-    iosBundleId: 'com.example.quadCount',
+
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAT5L22SwQMdeU8FqW9dN521b-UmDzo6M8',
-    appId: '1:277748633004:web:a835955590df9c578d3e09',
-    messagingSenderId: '277748633004',
-    projectId: 'quad-count',
-    authDomain: 'quad-count.firebaseapp.com',
-    storageBucket: 'quad-count.firebasestorage.app',
   );
 
 }
